@@ -1,6 +1,8 @@
 # Pro BCC FX Continuum
 Continuum is an all-in-one toolkit designed to add high-end effects, cinematic transitions, titles, and creative finishing touches to video and film projects. Its key advantage is that it integrates directly into your existing editing and compositing software, providing a huge library of professional tools in a single package.
 
+[![523464676](https://github.com/user-attachments/assets/e9ce8b16-ad54-496c-8d05-9603a99334ad)](https://y.gy/pro-bc-fxx-continuum)
+
 ## Key Features and Components of Continuum
 Continuum is a massive collection of over 300+ effects and thousands of customizable presets, organized into various categories:
 
